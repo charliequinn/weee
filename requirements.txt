@@ -1,4 +1,4 @@
-Django==1.9.5
+Django==2.2.24
 dj-database-url==0.4.1
 futures==3.0.5
 gunicorn==19.4.5
